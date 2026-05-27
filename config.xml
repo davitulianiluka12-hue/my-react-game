@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.neonquest.game" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Neon Quest</name>
+    <description>An epic mobile neon retro arcade quest.</description>
+    <author email="dev@neonquest.com" href="https://github.com">Mobile Dev Player</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <preference name="Orientation" value="landscape" />
+    <preference name="Fullscreen" value="true" />
+    <preference name="BackgroundColor" value="0xff050e10" />
+</widget>
